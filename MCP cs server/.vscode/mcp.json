@@ -1,0 +1,13 @@
+{
+  "servers": {
+    "mcp-medlink": {
+      "type": "stdio",
+      "command": "dotnet",
+      "args": [
+        "run",
+        "--project",
+        "C:/Project/MCP cs server/MCP_medlink/MCP_medlink.csproj"
+      ]
+    }
+  }
+}
